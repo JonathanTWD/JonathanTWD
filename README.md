@@ -44,10 +44,6 @@ Plataforma comunitaria para reportar barreras de accesibilidad en Canarias y con
 - Infraestructura de tests del frontend, tests de frontend y backend, y SEO de las páginas.
 - Colaboración en el despliegue en un VPS de DigitalOcean.
 
-### [JeredAirlines](https://entrega-2-react--jeredairlines.web.app/inicio)
-Simulación de reserva de vuelos con gestión de usuarios y reservas.
-<br><i>React · TypeScript · Tailwind CSS</i>
-
 ---
 
 ## Experiencia
