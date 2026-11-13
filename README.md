@@ -113,5 +113,5 @@ Plataforma comunitaria para reportar barreras de accesibilidad en Canarias y con
 - [Claude Code 101](https://academy.claude.com/verify/681748e3b7de0278ca80758245928786) · Claude Academy
 - [Agentic Frontend Development with Codex](https://cdn.master.dev/ud/c/e375f55dc8/FJJmMtPYYU/codex-masterdev.pdf) · Masterdev
 - [TypeScript: Tu completa guía y manual de mano](https://cursos.devtalles.com/certificates/omlyvd3d93) · DevTalles
-- Career Essentials in Generative AI · Microsoft y LinkedIn
+- [Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/68e6a5847f21a538bfc4a4958f57d05cdcf77757046b22a5b1a845a6574f4510) · Microsoft y LinkedIn
 - Inglés B1 · Escuela Oficial de Idiomas
