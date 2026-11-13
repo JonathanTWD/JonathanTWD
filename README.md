@@ -21,8 +21,6 @@ He llevado un proyecto propio, [Tablaria](https://tablaria.es), desde la idea ha
 
 Ahora estoy haciendo el curso de especialización en IA y Big Data y busco un puesto fullstack que pueda compaginar con él.
 
-- **Idiomas:** español (nativo), inglés B1 (EOI). Estudio chino por mi cuenta.
-
 ---
 
 ## Proyectos
